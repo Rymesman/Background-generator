@@ -1,0 +1,24 @@
+body {
+    font: 600 3em 'Courier New', Courier, monospace;
+    color: #00000080;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    top: 15%;
+    background: linear-gradient(to right, blue, green, brown, orange, purple, pink);
+}
+h1 {
+    font: 900 0.9em 'Courier New', Courier, monospace;
+    color: rgba(0, 0 , 0, .5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    width: 100%;
+}
+h3 {
+    font: 'Courier New', Courier, monospace;
+    color: rgba(0, 0, 0, .3);
+    text-align: center;
+    text-transform: none;
+    letter-spacing: 1em;
+}
